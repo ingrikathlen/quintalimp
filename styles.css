@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', Verdana, sans-serif;
+    font-size: 100%;
+}
+
+.topo{
+    text-align: center;
+    color: #2B48DB;
+}
+
+.frase{
+    font-style: italic;
+    color: #FCBA37;
+}
+
+.table{
+    width: 500px;
+    table-layout: fixed;
+    text-align: left;
+}
+
+.rounded{
+    margin: 10px;
+    width: 75px;
+    height: 75px;
+}
+
+.infos{
+    color: #2B48DB;
+    text-align: center;
+}
